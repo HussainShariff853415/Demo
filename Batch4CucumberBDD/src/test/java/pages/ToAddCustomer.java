@@ -26,6 +26,11 @@ public class ToAddCustomer {
 	@FindBy(xpath = "(//input)[1]")
 	WebElement firstName;
 	
+	
+	
+	
+	
+	
 	@FindBy(xpath = "(//input)[2]")
 	WebElement lastName;
 	
